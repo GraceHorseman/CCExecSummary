@@ -8,6 +8,7 @@ nav_order: 1
 ### Group 10: Grace Horseman, Helen MacDougall-Shackleton, Max Rival, Jessica Wassens
 
 
+## Introduction
 Geoengineering is the “deliberate large-scale manipulation of the planetary environment to counteract anthropogenic climate change” (The Royal Society, 2009, p.1), and its discussion has become increasingly mainstream in recent years (IPCC, 2015). Although these technologies are still largely speculative, the social, legal, and political issues presented by geoengineering are already hotly debated — these arguments are discussed below in order to explore the question “is geoengineering ethical?”
 
 
@@ -34,6 +35,7 @@ Due to geoengineering’s global influence, the people in control must be carefu
 Current approaches to geoengineering ethics are rooted in Western ideas and morals (Horton, 2017; Sikka, 2020). However, diverse cultural, historical, and religious understandings of human-human, human-nature, and human-technology relationships exist globally. While the diversity of cultural and religious traditions are important to consider for geoengineering to be inclusive, different perspectives on these relationships can make valuable contributions to the way geoengineering is framed and approached (Clingerman and O’Brien, 2014; Sugiyama et al., 2017). 
 
 
+## Conclusion
 When considering deliberate climate intervention, it is critical to first consider the ethical implications of geoengineering research, testing, and deployment. In general, the arguments we explore suggest that geoengineering is not an ethical solution for climate change, and that policy-makers should instead consider alternative measures. 
 
 
